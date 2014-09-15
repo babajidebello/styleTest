@@ -1,0 +1,24 @@
+
+header{
+	/*position: relative;*/
+	width: 100%;
+	height: 80px;
+	border-bottom: 2px solid #ecf0f1;
+	
+}
+#blk2{
+	position: absolute;
+	top: 30px;
+	color: #39d1b4;
+	left: 20%;
+}
+
+img{
+	z-index: 0;
+	height: 1px;
+	width: 5px%;
+	opacity: 0.5;
+	position: absolute;
+}
+
+
